@@ -1,6 +1,6 @@
 # Environment
 -------------
-OS: Windows 7, Windows 8.0 and Window 8.1
+Windows 7, Windows 8.0 and Window 8.1
 
 # Development
 -------------
