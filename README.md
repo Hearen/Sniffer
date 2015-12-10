@@ -10,10 +10,12 @@ Visual Studio 2013
 ----------
 * sniff all the data in a LAN
 * details of the data is given
-* filtered by ip, port and protocol
-* the crowded central panel can be cleared up any time by single click clear button
+* filtered by ip, port and protocol both in source and target host
+* the crowded central panel can be cleared up any time by a single click on 'clear button'
 * double click on the clear button will remove all the collected data
-* selecting any item in the list will present the details of it at the bottom panel
+* selecting any item in the list will present the details at the bottom panel
+* data details include its string value and its hexidecimal value
+* selecting the string value will automatically invoke the hexidecimal values be selected for interaction and further checking
 * related statistics will also be presented at the right bottom
 * filtering can also be used after data collection
 
