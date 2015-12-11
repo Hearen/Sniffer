@@ -20,4 +20,6 @@ Visual Studio 2013
 * filtering can also be used after data collection
 
 # Additional 
-This little tool is just a toy stuff completed in a Security Class, so there might be some errors or incompleteness. 
+This little tool is just a toy stuff completed in a Security Class, so there might be some errors or incompleteness; so if you would like to have some discussion with me or correct some bad points inside, please do not hesitate to contact me.
+* Author: LHearen
+* E-mail: LHearen@126.com
