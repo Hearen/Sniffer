@@ -2,7 +2,7 @@ Environment
 ----------
 
 
-<sub>This little tool is just a toy stuff completed in a Class of Network Security, so there might be some errors and incompleteness and I am not maintaining it anymore.</sub>
+<sub>This little tool is just a toy stuff completed in a Class of Network Security, so there might be some errors and incompleteness and I am not maintaining it anymore. Please do remember to use it on your own risks.</sub>
 
 Windows 7, Windows 8.0 and Window 8.1
 
