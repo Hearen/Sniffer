@@ -1,5 +1,8 @@
 Environment
--------------
+----------
+
+
+<sub>This little tool is just a toy stuff completed in a Class of Network Security, so there might be some errors and incompleteness and I am not maintaining it anymore.</sub>
 
 Windows 7, Windows 8.0 and Window 8.1
 
@@ -22,7 +25,3 @@ Features
 * related statistics will also be presented at the right bottom
 * filtering can also be used after data collection
 
-Additional 
-----------
-
-This little tool is just a toy stuff completed in a Class of Network Security, so there might be some errors and incompleteness; so if you would like to have some discussion with me or correct some bad points inside, please do not hesitate to contact me.
