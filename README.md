@@ -1,13 +1,16 @@
-# Environment
+Environment
 -------------
+
 Windows 7, Windows 8.0 and Window 8.1
 
-# Development
+Development
 -------------
+
 Visual Studio 2013
 
-# Features
+Features
 ----------
+
 * sniff all the data in a LAN
 * details of the data will be given
 * can be filtered by ip, port and protocol both in source and target side 
@@ -19,7 +22,7 @@ Visual Studio 2013
 * related statistics will also be presented at the right bottom
 * filtering can also be used after data collection
 
-# Additional 
+Additional 
+----------
+
 This little tool is just a toy stuff completed in a Class of Network Security, so there might be some errors and incompleteness; so if you would like to have some discussion with me or correct some bad points inside, please do not hesitate to contact me.
-* Author: LHearen
-* E-mail: LHearen@126.com
